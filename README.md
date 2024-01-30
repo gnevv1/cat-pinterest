@@ -1,2 +1,0 @@
-# catty-pinterest
- challenge

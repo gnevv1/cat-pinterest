@@ -1,2 +1,2 @@
-# cat-pinterest
+# catty-pinterest
  challenge
